@@ -1,5 +1,5 @@
 Fajitas
-This GitHub repository is used by Daniela Lopez.
+line 2 changed remotely. This GitHub repository is used by Daniela Lopez.
 
 This recipe simplifies family fajita night, making it fast enough for a weeknight dinner.
 It includes handy Tex-Mex Flavor Bombs, homemade flavor concentrates that bring the secret touch. 
