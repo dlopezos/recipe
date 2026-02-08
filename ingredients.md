@@ -1,4 +1,4 @@
-Let's begin!
+Let's begin friends!
 3 Tex-Mex Flavor Bombs
 Cashew Sour Cream 
 2 tablespoons extra-virgin olive oil
