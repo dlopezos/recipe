@@ -1,5 +1,6 @@
 ### This is a LOCAL change :)
-Fajitas
+# Fajitas
+### Heading level 3
 line 2 changed remotely. This GitHub repository is used by Daniela Lopez.
 
 This recipe simplifies family fajita night, making it fast enough for a weeknight dinner.
